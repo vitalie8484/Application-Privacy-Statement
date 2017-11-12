@@ -1,0 +1,1 @@
+<?php header( 'Location: /tic-tac-two.html' ) ;  ?>
